@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Mar  7 17:12:54 2020
-
+Tercer cambio
 @author: FranciscoJose
 """
 B = "blancas" 
